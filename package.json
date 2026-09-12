@@ -1,1 +1,5 @@
-"name":"n8n-on-render","version""1.0.0""private"true"scripts":"start":"n {"dependencies":{"n8n":"latest"}}
+"name":"n8n-on-render","version""1.0.0""private"true"true,
+"version": "1.0.0",
+"engines": { "node": ">=18" },
+"scripts": { "start": "n8n start" },
+"dependencies": { "n8n": "^1.0.0" }
